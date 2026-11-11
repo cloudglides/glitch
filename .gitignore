@@ -1,0 +1,10 @@
+# KiCad temporary / per-user files
+*.lck
+_autosave-*
+\#auto_saved_files\#
+*-backups/
+fp-info-cache
+*.kicad_prl
+
+# build intermediates (netlist, DSN/SES, reports)
+build/
