@@ -4,7 +4,7 @@ author: Cloudglides
 description: a wearable conference badge PCB
 ---
 
-### TOTAL TIME: 30 HOURS
+### TOTAL TIME: 35 HOURS
 
 ## Day 1 | GLITCH schematic | November 9th | 8 hours
 
@@ -92,3 +92,10 @@ pretty happy with how this turned out! the board is finally looking like what i 
 it hasnt been manufactured or tested yet, so passing ERC and DRC is all i've verified for now. still need to get a physical board and test the charging, display, buttons and LEDs.
 
 slowly getting there :p
+
+## Some day in between | 5h
+worked on the zine!!! its looking pretty cool also organized the repo made the BOM and got everything ready :p
+
+i made the zine on canva, i usually use figma but my free plan can only do so much also for BOM i tried some lcsc extension which took me a while instead of manually making one, also i got my gerber checked properly in #hardware channel on hack club slack :DD
+
+<img width="1587" height="2245" alt="GLITCH" src="https://github.com/user-attachments/assets/b7b78fa3-f2df-4443-9d92-d6721c3e0d33" />
