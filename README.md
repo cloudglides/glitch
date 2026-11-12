@@ -103,6 +103,10 @@ everything is open source, feel free to take a look, modify it or build your own
 This project uses:
 - [KiCad](https://www.kicad.org/)
 
+### ZINE
+<img width="1587" height="2245" alt="GLITCH" src="https://github.com/user-attachments/assets/91f2b509-c398-4ad8-9cd2-2692f6f04f8b" />
+
+
 ## License
 
 GPL
